@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aditya256136/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
