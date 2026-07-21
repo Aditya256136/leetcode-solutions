@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Aditya256136/leetcode-solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/Aditya256136/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Two Pointers
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Aditya256136/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
