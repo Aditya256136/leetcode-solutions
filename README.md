@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya256136/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Aditya256136/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya256136/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Two Pointers
 |  |
 | ------- |
