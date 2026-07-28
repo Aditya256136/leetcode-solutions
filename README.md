@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Binary Search
 |  |
 | ------- |
