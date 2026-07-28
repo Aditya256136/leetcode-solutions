@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya256136/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Aditya256136/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
