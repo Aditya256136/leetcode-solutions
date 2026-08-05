@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Aditya256136/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya256136/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aditya256136/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Aditya256136/leetcode-solutions/tree/master/1544-make-the-string-great) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya256136/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Bit Manipulation
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aditya256136/leetcode-solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Sliding Window
 |  |
