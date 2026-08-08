@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Aditya256136/leetcode-solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 ## Two Pointers
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aditya256136/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1544-make-the-string-great](https://github.com/Aditya256136/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1544-make-the-string-great](https://github.com/Aditya256136/leetcode-solutions/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
