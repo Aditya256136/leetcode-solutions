@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
 ## Bit Manipulation
 |  |
 | ------- |
