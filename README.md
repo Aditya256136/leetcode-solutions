@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
+| [3941-password-strength](https://github.com/Aditya256136/leetcode-solutions/tree/master/3941-password-strength) |
 ## Greedy
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
+| [3941-password-strength](https://github.com/Aditya256136/leetcode-solutions/tree/master/3941-password-strength) |
 ## Bit Manipulation
 |  |
 | ------- |
