@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aditya256136/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya256136/leetcode-solutions/tree/master/0066-plus-one) |
+| [3945-digit-frequency-score](https://github.com/Aditya256136/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
 | [3941-password-strength](https://github.com/Aditya256136/leetcode-solutions/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/Aditya256136/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Bit Manipulation
 |  |
 | ------- |
