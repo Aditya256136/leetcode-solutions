@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Aditya256136/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya256136/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Aditya256136/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Aditya256136/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aditya256136/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
