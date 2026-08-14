@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
+| [3523-make-array-non-decreasing](https://github.com/Aditya256136/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
+| [3523-make-array-non-decreasing](https://github.com/Aditya256136/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 ## Stack
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
+| [3523-make-array-non-decreasing](https://github.com/Aditya256136/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/Aditya256136/leetcode-solutions/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
