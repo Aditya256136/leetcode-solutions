@@ -1,16 +1,15 @@
 class Solution {
 public:
     int maximumPossibleSize(vector<int>& nums) {
-        stack<int> st;
-        int id = -1;
+        int id = -1, count = 0;
         for(int i : nums)
         {
             if(i >= id)
             {
-                st.push(i);
+                count++;
                 id = i;
             }
         }
-        return st.size();
+        return count;
     }
 };
