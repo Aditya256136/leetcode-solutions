@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Aditya256136/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya256136/leetcode-solutions/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Aditya256136/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Aditya256136/leetcode-solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -105,10 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aditya256136/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aditya256136/leetcode-solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Aditya256136/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0412-fizz-buzz](https://github.com/Aditya256136/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [3945-digit-frequency-score](https://github.com/Aditya256136/leetcode-solutions/tree/master/3945-digit-frequency-score) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Aditya256136/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya256136/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
