@@ -6,12 +6,9 @@ public:
         for(int i = 0; i < nums.size(); i++)
         {
             freq[nums[i]]++;
-        }
-        for(auto it : freq)
-        {
-            if(it.second == n)
+            if(freq[nums[i]] == n)
             {
-                return it.first;
+                return nums[i];
             }
         }
         return -1;
