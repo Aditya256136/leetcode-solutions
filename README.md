@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aditya256136/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0682-baseball-game](https://github.com/Aditya256136/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0929-unique-email-addresses](https://github.com/Aditya256136/leetcode-solutions/tree/master/0929-unique-email-addresses) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Aditya256136/leetcode-solutions/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/Aditya256136/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya256136/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Aditya256136/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Aditya256136/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
@@ -153,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Aditya256136/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/Aditya256136/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Aditya256136/leetcode-solutions/tree/master/0884-uncommon-words-from-two-sentences) |
