@@ -5,11 +5,11 @@ public:
         set<pair<int, int>> pairs;
         for(int i : nums)
         {
-            if(st.find(i - k) != st.end() && st.count(i) <= 1)
+            if(st.find(i - k) != st.end())
             {
                 pairs.insert({max(i - k, i), min(i - k, i)});
             }
-            if(st.find(i + k) != st.end() && st.count(i) <= 1)
+            if(st.find(i + k) != st.end())
             {
                 pairs.insert({max(i + k, i), min(i + k, i)});
             }
