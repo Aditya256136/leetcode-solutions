@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1748-sum-of-unique-elements](https://github.com/Aditya256136/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya256136/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2404-most-frequent-even-element](https://github.com/Aditya256136/leetcode-solutions/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/Aditya256136/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/Aditya256136/leetcode-solutions/tree/master/1598-crawler-log-folder) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Aditya256136/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Aditya256136/leetcode-solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya256136/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
 | [3295-report-spam-message](https://github.com/Aditya256136/leetcode-solutions/tree/master/3295-report-spam-message) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Aditya256136/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Aditya256136/leetcode-solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/Aditya256136/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Aditya256136/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2390-removing-stars-from-a-string](https://github.com/Aditya256136/leetcode-solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/Aditya256136/leetcode-solutions/tree/master/3174-clear-digits) |
 ## Binary Search
